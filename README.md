@@ -1,2 +1,2 @@
 # react
-This are projects based on react
+This are projects based on react.js
